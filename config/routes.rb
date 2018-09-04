@@ -1,2 +1,3 @@
-SearchYoutube::Engine.routes.draw do
+Rails.application.routes.draw do
+	get 'search_youtube/search/index'
 end

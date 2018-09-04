@@ -21,6 +21,9 @@ Or install it yourself as:
 $ gem install search_youtube
 ```
 
+## Instructions
+Add "//= require jquery" in app/assets/javascripts/application.js
+
 ## Contributing
 Contribution directions go here.
 
